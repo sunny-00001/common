@@ -1,1 +1,0 @@
-GitHubVFS test file content
